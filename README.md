@@ -79,11 +79,6 @@ Mathcad is widely adopted in **aerospace, automotive, civil engineering, energy,
 | **Storage** | 2 GB free space |
 | **GPU**     | Optional for enhanced visualization |
 
----
-
-<p align="center">
-  <img src="https://community.ptc.com/legacyfs/online/98363_Screenshot%20(1).png" alt="Mathcad Worksheet Example" width="700">
-</p>
 
 ---
 
